@@ -1,5 +1,5 @@
 {
-  "name": "my_portfolio",
+  "name": "l",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.4"
-  }
+  },
+  "devDependencies": {}
 }
