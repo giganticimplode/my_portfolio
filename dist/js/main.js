@@ -4,7 +4,7 @@ const menuBtn = document.querySelector(".menu-btn");
 const menu = document.querySelector(".menu");
 const menuNav = document.querySelector(".menu-nav");
 const menuBranding = document.querySelector(".menu-branding");
-const navItem = document.querySelectorAll(".nav-items");
+const navItem = document.querySelectorAll(".nav-item");
 
 // Set Iniial State Of Menu
 
